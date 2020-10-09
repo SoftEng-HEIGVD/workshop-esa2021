@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on ESA 2021</title>
+    <link>https://softeng-heigvd.github.io/workshop-esa2021/page/</link>
+    <description>Recent content in Pages on ESA 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Oct 2020 18:35:36 +0200</lastBuildDate><atom:link href="https://softeng-heigvd.github.io/workshop-esa2021/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Committees</title>
+      <link>https://softeng-heigvd.github.io/workshop-esa2021/page/committees/</link>
+      <pubDate>Wed, 07 Oct 2020 18:35:36 +0200</pubDate>
+      
+      <guid>https://softeng-heigvd.github.io/workshop-esa2021/page/committees/</guid>
+      <description>Organizing committee:
+ Marcel Graf, University of Applied Sciences Western Switzerland Olivier Liechti, Avalia Systems  Tentative program committee:
+ Philip Makedonski, University of Göttingen Miltiadis Siavvas, Imperial College London José Viterbo, Fluminense Federal University, Rio de Janeiro Tatsuya Nonoyama, Griffith University, Brisbane Xin Xia, Monash University, Melbourne Rodrigo Bonacin, CTI Renato Archer, Campinas Sheila Reinehr, Pontifícia Universidade Católica do Paraná Per Närman, JM AB, Stockholm João Vidal de Carvalho, Politécnico do Porto Slinger Jansen, Utrecht University Rúben Pereira, Instituto Universitário de Lisboa Sandra L.</description>
+    </item>
+    
+    <item>
+      <title>Call for Submissions</title>
+      <link>https://softeng-heigvd.github.io/workshop-esa2021/page/call-for-submissions/</link>
+      <pubDate>Wed, 07 Oct 2020 18:34:55 +0200</pubDate>
+      
+      <guid>https://softeng-heigvd.github.io/workshop-esa2021/page/call-for-submissions/</guid>
+      <description>Software Assessments are used to reduce the uncertainty about the business value of a software product and the team that develops it. An assessment is usually carried out by an experienced professional by gathering and interpreting information about the software product and its development processes, comparing it to a reference model, and is usually limited in time and scope. Assessments that are too heavy will not be carried out often, therefore the challenge is to make them more efficient, where the available time is used wisely to focus on analysis that yields the most valuable insights.</description>
+    </item>
+    
+  </channel>
+</rss>
